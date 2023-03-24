@@ -59,6 +59,6 @@
 
 <a href = "https://www.linkedin.com/in/saraswati-panda/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-- Mail me on gouravmisra6@gmail.com
+- Mail me on thesaraswati.panda@gmail.com
 
 </p>
